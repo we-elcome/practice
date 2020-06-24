@@ -16,14 +16,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0b72185-fd4e-42c1-b020-5c0da8df3579" name="Default Changelist" comment="">
+    <list default="true" id="e0b72185-fd4e-42c1-b020-5c0da8df3579" name="Default Changelist" comment="minor fixes">
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-set-password.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/bootstrap-extended.css" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/bootstrap-extended.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/components.css" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/components.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/core/colors/palette-noui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/core/colors/palette-noui.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-forgot-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-forgot-password.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-register.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +29,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -50,6 +53,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -73,6 +77,9 @@
       <workItem from="1592941163710" duration="3152000" />
       <workItem from="1592945398615" duration="3015000" />
       <workItem from="1592987862952" duration="8184000" />
+      <workItem from="1593003148598" duration="240000" />
+      <workItem from="1593003476538" duration="112000" />
+      <workItem from="1593022597524" duration="4591000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1592947131847</created>
@@ -134,10 +141,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="430" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1592912938610" />
-    <state x="394" y="0" key="CommitChangelistDialog2" timestamp="1592989277471">
+    <state x="394" y="0" key="CommitChangelistDialog2" timestamp="1593027620696">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="394" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592989277471" />
+    <state x="394" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593027620696" />
     <state x="237" y="53" key="DiffContextDialog" timestamp="1592939091402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
