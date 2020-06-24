@@ -18,6 +18,11 @@
   <component name="ChangeListManager">
     <list default="true" id="e0b72185-fd4e-42c1-b020-5c0da8df3579" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/bootstrap-extended.css" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/bootstrap-extended.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/components.css" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/components.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/core/colors/palette-noui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/core/colors/palette-noui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-forgot-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-forgot-password.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-register.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-register.html" afterDir="false" />
     </list>
@@ -67,7 +72,7 @@
       <workItem from="1592940335325" duration="681000" />
       <workItem from="1592941163710" duration="3152000" />
       <workItem from="1592945398615" duration="3015000" />
-      <workItem from="1592987862952" duration="1025000" />
+      <workItem from="1592987862952" duration="8184000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1592947131847</created>
@@ -76,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592947131847</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="minor fixes">
+      <created>1592989282434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592989282434</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +122,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="minor fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor fixes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="568" y="225" key="#Notifications" timestamp="1592944759480">
@@ -121,18 +134,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="430" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1592912938610" />
-    <state x="394" y="0" key="CommitChangelistDialog2" timestamp="1592946507744">
+    <state x="394" y="0" key="CommitChangelistDialog2" timestamp="1592989277471">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="394" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592946507744" />
+    <state x="394" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592989277471" />
     <state x="237" y="53" key="DiffContextDialog" timestamp="1592939091402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="237" y="53" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1592939091402" />
-    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1592946665438">
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1592989675223">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592946665438" />
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592989675223" />
     <state x="464" y="65" key="RollbackChangesDialog" timestamp="1592940786393">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
