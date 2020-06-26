@@ -16,8 +16,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0b72185-fd4e-42c1-b020-5c0da8df3579" name="Default Changelist" comment="убрала хрень">
-      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-login.html" afterDir="false" />
+    <list default="true" id="e0b72185-fd4e-42c1-b020-5c0da8df3579" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-forgot-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-forgot-password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-register.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-set-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-set-password.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +56,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GithubProjectSettings">
     <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
@@ -180,10 +183,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="убрала хрень" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="568" y="225" key="#Notifications" timestamp="1592944759480">
+    <state x="568" y="225" key="#Notifications" timestamp="1593203328346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="568" y="225" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1592944759480" />
+    <state x="568" y="225" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1593203328346" />
     <state x="430" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592912938610">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -192,10 +195,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="394" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593027738599" />
-    <state x="237" y="53" key="DiffContextDialog" timestamp="1592939091402">
+    <state x="237" y="53" width="1092" height="582" key="DiffContextDialog" timestamp="1593203434259">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="237" y="53" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1592939091402" />
+    <state x="237" y="53" width="1092" height="582" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1593203434259" />
     <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1592989675223">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -220,9 +223,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="608" y="96" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.728@0.0.1366.728" timestamp="1592940064113" />
-    <state x="492" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592941100631">
+    <state x="492" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593203337330">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1592941100631" />
+    <state x="492" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1593203337330" />
   </component>
 </project>
