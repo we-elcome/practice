@@ -17,9 +17,246 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0b72185-fd4e-42c1-b020-5c0da8df3579" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-forgot-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-forgot-password.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-register.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-set-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-set-password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/themes/light-layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/themes/light-layout.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/animate/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/calendars/extensions/daygrid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/calendars/extensions/timegrid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/calendars/fullcalendar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/calendars/fullcalendar.print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/charts/apexcharts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/documentation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/editors/quill/fonts/KaTeX_Main-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/editors/quill/fonts/KaTeX_Math-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/editors/quill/katex.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/editors/quill/monokai-sublime.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/editors/quill/quill.bubble.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/editors/quill/quill.snow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/extensions/dataTables.checkboxes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/extensions/dd-icon/dd-icon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/extensions/dd-icon/dd-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/extensions/dd-icon/dd-icon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/extensions/dd-icon/dd-icon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/extensions/dragula.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/extensions/jquery.contextMenu.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/extensions/nouislider.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/extensions/pace.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/extensions/plyr.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/extensions/shepherd-theme-default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/extensions/sweetalert2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/extensions/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/extensions/tether-theme-arrows.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/extensions/tether.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/extensions/toastr.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/extensions/unslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/file-uploaders/dropzone.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/forms/select/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/forms/select/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/forms/spinner/jquery.bootstrap-touchspin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/forms/toggle/switchery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/forms/toggle/switchery.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/modal/facebook.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/modal/google.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/modal/twitter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/perfect-scrollbar/perfect-scrollbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/pickers/pickadate/classic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/pickers/pickadate/classic.date.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/pickers/pickadate/classic.time.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/pickers/pickadate/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/pickers/pickadate/default.time.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/pickers/pickadate/pickadate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/tables/ag-grid/ag-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/tables/ag-grid/ag-theme-material.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/tables/datatable/datatables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/tables/datatable/extensions/dataTables.checkboxes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/tables/datatable/select.dataTables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/ui/prism-treeview.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/ui/prism.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/vendors-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/vendors.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/css/weather-icons/climacons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/calendar/extensions/daygrid.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/calendar/extensions/interactions.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/calendar/extensions/timegrid.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/calendar/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/charts/apexcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/charts/apexcharts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/charts/chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/charts/echarts/echarts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/charts/echarts/echarts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/charts/gmaps.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/coming-soon/jquery.countdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/coming-soon/jquery.countdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/base.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/bubble.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/bubble/toolbar.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/bubble/tooltip.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/core.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/align-center.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/align-justify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/align-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/align-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/attachment.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/audio.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/authorship.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/background.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/blockquote.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/clean.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/code.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/color.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/comment.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/direction-ltr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/direction-rtl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/dropdown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/emoji.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/float-center.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/float-full.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/float-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/float-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/font.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/formula.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/hashtag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/header-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/header.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/image.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/indent.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/list-bullet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/list-check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/list-ordered.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/map.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/mention.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/outdent.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/redo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/size-decrease.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/size-increase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/size.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/spacing.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/speech.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/strike.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/subscript.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/superscript.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/table-border-all.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/table-border-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/table-border-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/table-border-none.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/table-border-outside.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/table-border-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/table-border-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/table-delete-cells.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/table-delete-columns.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/table-delete-rows.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/table-insert-cells.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/table-insert-columns.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/table-insert-rows.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/table-merge-cells.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/table-unmerge-cells.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/table.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/underline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/undo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/icons/video.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/snow.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/snow/toolbar.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/assets/snow/tooltip.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/highlight.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/katex.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/quill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/quill.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/themes/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/themes/bubble.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/themes/snow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/ui/color-picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/ui/icon-picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/ui/icons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/ui/picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/editors/quill/ui/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/dataTables.checkboxes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/dragula.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/dropzone.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/i18next.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/i18nextBrowserLanguageDetector.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/i18nextXHRBackend.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/jquery-i18next.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/jquery.contextMenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/jquery.mousewheel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/jquery.steps.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/jquery.ui.position.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/lang-all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/locale-all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/nouislider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/pace.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/polyfill.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/shepherd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/sweetalert2.all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/tether.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/toastr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/extensions/wNumb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/forms/extended/maxlength/bootstrap-maxlength.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/forms/extended/typeahead/bloodhound.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/forms/extended/typeahead/handlebars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/forms/extended/typeahead/typeahead.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/forms/repeater/jquery.repeater.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/forms/select/select2.full.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/forms/select/select2.full.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/forms/select/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/forms/select/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/forms/spinner/jquery.bootstrap-touchspin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/forms/toggle/switchery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/forms/toggle/switchery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/forms/validation/jqBootstrapValidation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/forms/validation/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/media/plyr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/media/plyr.polyfilled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/miscellaneous/countdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/pagination/jquery.bootpag.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/pagination/jquery.twbsPagination.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/pickers/pickadate/legacy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/pickers/pickadate/picker.date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/pickers/pickadate/picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/pickers/pickadate/picker.time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/tables/ag-grid/ag-grid-community.min.noStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/tables/datatable/buttons.bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/tables/datatable/buttons.html5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/tables/datatable/buttons.print.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/tables/datatable/dataTables.select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/tables/datatable/datatables.bootstrap4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/tables/datatable/datatables.buttons.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/tables/datatable/datatables.checkboxes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/tables/datatable/datatables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/tables/datatable/pdfmake.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/tables/datatable/vfs_fonts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/ui/affix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/ui/blockUI.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/ui/jquery-sliding-menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/ui/jquery.matchHeight-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/ui/jquery.sticky-kit.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/ui/jquery.sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/ui/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/ui/prism-treeview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/ui/prism.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/ui/screenfull.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/ui/unison.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/vendors/js/vendors.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/themes/semi-dark-layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/themes/semi-dark-layout.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-forgot-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-forgot-password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-register.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-semi-dark/auth-set-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-set-password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/src/scss/core/menu/menu-types/horizontal-menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/src/scss/core/menu/menu-types/horizontal-menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/src/scss/themes/semi-dark-layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/src/scss/themes/semi-dark-layout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-laravel-admin/full-version/resources/sass/core/menu/menu-types/horizontal-menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-laravel-admin/full-version/resources/sass/core/menu/menu-types/horizontal-menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-laravel-admin/full-version/resources/sass/themes/semi-dark-layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-laravel-admin/full-version/resources/sass/themes/semi-dark-layout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-laravel-admin/full-version/resources/views/panels/styles.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-laravel-admin/full-version/resources/views/panels/styles.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +300,7 @@
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="devel0w0per" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="practice" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7" />
   <component name="ProjectId" id="1difOZmpi1kYIkos6U1g0Gv8Me8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -76,7 +314,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vuexy-html-admin/app-assets" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\practice\vuexy-html-admin\app-assets" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -99,6 +343,10 @@
       <workItem from="1593003476538" duration="112000" />
       <workItem from="1593022597524" duration="4786000" />
       <workItem from="1593180619098" duration="2311000" />
+      <workItem from="1593268796480" duration="1846000" />
+      <workItem from="1593440487962" duration="9239000" />
+      <workItem from="1593451946106" duration="48000" />
+      <workItem from="1593452062083" duration="3880000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1592947131847</created>
@@ -142,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593200464451</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="form fixes">
+      <created>1593203466025</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593203466025</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,9 +435,14 @@
     <MESSAGE value="set-password html page added" />
     <MESSAGE value="set passwd page has corrected" />
     <MESSAGE value="убрала хрень" />
-    <option name="LAST_COMMIT_MESSAGE" value="убрала хрень" />
+    <MESSAGE value="form fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="form fixes" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="327" y="35" key="#CLI_Interpreters" timestamp="1593444473375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="327" y="35" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1593444473375" />
     <state x="568" y="225" key="#Notifications" timestamp="1593203328346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -191,30 +451,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="430" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1592912938610" />
-    <state x="394" y="0" key="CommitChangelistDialog2" timestamp="1593027738599">
+    <state x="0" y="243" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593451221477">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="394" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593027738599" />
-    <state x="237" y="53" width="1092" height="582" key="DiffContextDialog" timestamp="1593203434259">
+    <state x="0" y="243" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1593451221477" />
+    <state x="394" y="0" key="CommitChangelistDialog2" timestamp="1593203457525">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="237" y="53" width="1092" height="582" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1593203434259" />
-    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1592989675223">
+    <state x="394" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593203457525" />
+    <state x="237" y="53" width="1092" height="582" key="DiffContextDialog" timestamp="1593203893323">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592989675223" />
+    <state x="237" y="53" width="1092" height="582" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1593203893323" />
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1593444413346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593444413346" />
     <state x="484" y="324" key="Github.CreatePullRequestDialog" timestamp="1593200474424">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="484" y="324" key="Github.CreatePullRequestDialog/0.0.1440.900@0.0.1440.900" timestamp="1593200474424" />
-    <state x="464" y="65" key="RollbackChangesDialog" timestamp="1592940786393">
+    <state x="464" y="65" key="RollbackChangesDialog" timestamp="1593456049833">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="464" y="65" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1592940786393" />
-    <state x="422" y="43" key="Vcs.Push.Dialog.v2" timestamp="1593027763791">
+    <state x="464" y="65" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1593456049833" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1593444667666">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="422" y="43" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593027763791" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593444667666" />
+    <state x="422" y="43" key="Vcs.Push.Dialog.v2" timestamp="1593203561268">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="422" y="43" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593203561268" />
     <state x="462" y="191" key="VcsDiffUtil.ChangesDialog" timestamp="1593181379987">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -223,9 +491,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="608" y="96" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.728@0.0.1366.728" timestamp="1592940064113" />
-    <state x="492" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593203337330">
+    <state x="492" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593205323860">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1593203337330" />
+    <state x="492" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1593205323860" />
   </component>
 </project>

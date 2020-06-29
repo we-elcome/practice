@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="{{ asset(mix('css/colors.css')) }}">
         <link rel="stylesheet" href="{{ asset(mix('css/components.css')) }}">
         <link rel="stylesheet" href="{{ asset(mix('css/themes/dark-layout.css')) }}">
-        <link rel="stylesheet" href="{{ asset(mix('css/themes/semi-dark-layout.css')) }}">
+        <link rel="stylesheet" href="{{ asset(mix('css/themes/light-layout.css')) }}">
 {{-- {!! Helper::applClasses() !!} --}}
 @php
 $configData = Helper::applClasses();
@@ -21,7 +21,7 @@ $configData = Helper::applClasses();
         <link rel="stylesheet" href="{{ asset(mix('css/themes/dark-layout.css')) }}">
 @endif
 @if($configData['theme'] == 'semi-dark-layout')
-        <link rel="stylesheet" href="{{ asset(mix('css/themes/semi-dark-layout.css')) }}">
+        <link rel="stylesheet" href="{{ asset(mix('css/themes/light-layout.css')) }}">
 @endif --}}
 {{-- Page Styles --}}
 @if($configData['mainLayoutType'] === 'horizontal')
