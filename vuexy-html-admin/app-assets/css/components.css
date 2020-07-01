@@ -100,12 +100,12 @@ html {
     html body p {
       line-height: 1.5rem; }
     html body.bg-full-screen-image {
-      background: url(../../app-assets/images/pages/vuexy-login-bg.jpg) no-repeat center center;
+      background: #FFF;
       background-size: cover; }
     html body.blank-page .content {
       margin-left: 0; }
       html body.blank-page .content.app-content {
-        overflow: overlay;
+        overflow: auto;
         overflow-x: hidden; }
         html body.blank-page .content.app-content .header-navbar-shadow {
           display: none; }
