@@ -16,10 +16,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0b72185-fd4e-42c1-b020-5c0da8df3579" name="Default Changelist" comment="style fixes">
-      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/assets/css/style.css" afterDir="false" />
+    <list default="true" id="e0b72185-fd4e-42c1-b020-5c0da8df3579" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/bootstrap-extended.css" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/bootstrap-extended.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/components.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/components.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/app-assets/images/pages/vuexy-login-bg.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-forgot-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-forgot-password.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-register.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-register.html" afterDir="false" />
@@ -87,13 +89,14 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Desktop\practice\vuexy-html-admin" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\practice\vuexy-html-admin\html\ltr\vertical-menu-template-light" />
       <recent name="C:\Users\user\Desktop\practice\vuexy-html-admin\app-assets\images\pages" />
       <recent name="C:\Users\user\Desktop\practice\vuexy-html-admin\app-assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\practice\vuexy-html-admin\node_modules" />
+      <recent name="C:\Users\user\Desktop\practice\vuexy-html-admin" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -122,6 +125,7 @@
       <workItem from="1593451946106" duration="48000" />
       <workItem from="1593452062083" duration="4557000" />
       <workItem from="1593511376001" duration="5541000" />
+      <workItem from="1593624323993" duration="7525000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1592947131847</created>
@@ -186,7 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1593517248864</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="login scripts added">
+      <created>1593625607830</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1593625607830</updated>
+    </task>
+    <task id="LOCAL-00011" summary="+ alerts&#10;auth pages fixes">
+      <created>1593631965446</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1593631965446</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,7 +245,9 @@
     <MESSAGE value="form fixes" />
     <MESSAGE value="major form fixes for mobile devices" />
     <MESSAGE value="style fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="style fixes" />
+    <MESSAGE value="login scripts added" />
+    <MESSAGE value="+ alerts&#10;auth pages fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ alerts&#10;auth pages fixes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="327" y="35" key="#CLI_Interpreters" timestamp="1593444473375">
@@ -246,10 +266,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="243" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1593451221477" />
-    <state x="394" y="0" key="CommitChangelistDialog2" timestamp="1593517336411">
+    <state x="394" y="0" key="CommitChangelistDialog2" timestamp="1593631959112">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="394" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593517336411" />
+    <state x="394" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593631959112" />
     <state x="237" y="53" width="1092" height="582" key="DiffContextDialog" timestamp="1593203893323">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -270,10 +290,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593444667666" />
-    <state x="422" y="43" key="Vcs.Push.Dialog.v2" timestamp="1593517264922">
+    <state x="422" y="43" key="Vcs.Push.Dialog.v2" timestamp="1593632006130">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="422" y="43" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593517264922" />
+    <state x="422" y="43" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593632006130" />
     <state x="462" y="191" key="VcsDiffUtil.ChangesDialog" timestamp="1593181379987">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
