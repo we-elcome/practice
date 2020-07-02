@@ -19,8 +19,6 @@
     <list default="true" id="e0b72185-fd4e-42c1-b020-5c0da8df3579" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-forgot-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-forgot-password.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-register.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-set-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-set-password.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +57,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GithubProjectSettings">
     <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
@@ -85,14 +82,14 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\practice\vuexy-html-admin\node_modules" />
+      <recent name="C:\Users\user\Desktop\practice\vuexy-html-admin" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\practice\vuexy-html-admin\html\ltr\vertical-menu-template-light" />
       <recent name="C:\Users\user\Desktop\practice\vuexy-html-admin\app-assets\images\pages" />
       <recent name="C:\Users\user\Desktop\practice\vuexy-html-admin\app-assets" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Desktop\practice\vuexy-html-admin\node_modules" />
-      <recent name="C:\Users\user\Desktop\practice\vuexy-html-admin" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -122,7 +119,7 @@
       <workItem from="1593452062083" duration="4557000" />
       <workItem from="1593511376001" duration="5541000" />
       <workItem from="1593624323993" duration="8847000" />
-      <workItem from="1593688731336" duration="12682000" />
+      <workItem from="1593688731336" duration="14627000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1592947131847</created>
@@ -229,7 +226,35 @@
       <option name="project" value="LOCAL" />
       <updated>1593709152187</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="+bug-fixes&#10;+bugs">
+      <created>1593710624999</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1593710624999</updated>
+    </task>
+    <task id="LOCAL-00017" summary="-bugs">
+      <created>1593711404140</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1593711404140</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added max width">
+      <created>1593711580689</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1593711580689</updated>
+    </task>
+    <task id="LOCAL-00019" summary="darkened bg color">
+      <created>1593711730461</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1593711730461</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,7 +301,11 @@
     <MESSAGE value="nodes removed" />
     <MESSAGE value="nodes removed from gitignore" />
     <MESSAGE value="+ chunks" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ chunks" />
+    <MESSAGE value="+bug-fixes&#10;+bugs" />
+    <MESSAGE value="-bugs" />
+    <MESSAGE value="added max width" />
+    <MESSAGE value="darkened bg color" />
+    <option name="LAST_COMMIT_MESSAGE" value="darkened bg color" />
   </component>
   <component name="WindowStateProjectService">
     <state x="327" y="35" key="#CLI_Interpreters" timestamp="1593444473375">
@@ -295,14 +324,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="243" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1593451221477" />
-    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1593709148624">
+    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1593711727524">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593709148624" />
-    <state x="237" y="53" width="1092" height="582" key="DiffContextDialog" timestamp="1593203893323">
+    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593711727524" />
+    <state x="237" y="53" width="1092" height="582" key="DiffContextDialog" timestamp="1593711587626">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="237" y="53" width="1092" height="582" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1593203893323" />
+    <state x="237" y="53" width="1092" height="582" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1593711587626" />
     <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1593512181467">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -323,10 +352,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593444667666" />
-    <state x="418" y="61" key="Vcs.Push.Dialog.v2" timestamp="1593709704598">
+    <state x="92" y="92" width="1182" height="544" key="ShowDiffWithBranchDialog" timestamp="1593711587626">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="418" y="61" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593709704598" />
+    <state x="92" y="92" width="1182" height="544" key="ShowDiffWithBranchDialog/0.0.1366.728@0.0.1366.728" timestamp="1593711587626" />
+    <state x="418" y="61" key="Vcs.Push.Dialog.v2" timestamp="1593711741145">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="418" y="61" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593711741145" />
     <state x="462" y="191" key="VcsDiffUtil.ChangesDialog" timestamp="1593181379987">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
