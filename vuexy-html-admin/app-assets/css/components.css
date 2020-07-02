@@ -100,7 +100,7 @@ html {
     html body p {
       line-height: 1.5rem; }
     html body.bg-full-screen-image {
-      background: #FFF;
+      background: rgba(250, 250, 250, 1);
       background-size: cover; }
     html body.blank-page .content {
       margin-left: 0; }
