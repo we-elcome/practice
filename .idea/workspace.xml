@@ -18,8 +18,13 @@
   <component name="ChangeListManager">
     <list default="true" id="e0b72185-fd4e-42c1-b020-5c0da8df3579" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/app-assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/chunks/auth_card_wrapper.php" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/chunks/auth_card_wrapper.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-forgot-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-forgot-password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-register.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-set-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-set-password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +124,7 @@
       <workItem from="1593452062083" duration="4557000" />
       <workItem from="1593511376001" duration="5541000" />
       <workItem from="1593624323993" duration="8847000" />
-      <workItem from="1593688731336" duration="14627000" />
+      <workItem from="1593688731336" duration="16312000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1592947131847</created>
@@ -254,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593711730461</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="formatting fixes">
+      <created>1593712580026</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1593712580026</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,7 +317,8 @@
     <MESSAGE value="-bugs" />
     <MESSAGE value="added max width" />
     <MESSAGE value="darkened bg color" />
-    <option name="LAST_COMMIT_MESSAGE" value="darkened bg color" />
+    <MESSAGE value="formatting fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="formatting fixes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="327" y="35" key="#CLI_Interpreters" timestamp="1593444473375">
@@ -324,10 +337,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="243" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1593451221477" />
-    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1593711727524">
+    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1593712574588">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593711727524" />
+    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593712574588" />
     <state x="237" y="53" width="1092" height="582" key="DiffContextDialog" timestamp="1593711587626">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -356,10 +369,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="ShowDiffWithBranchDialog/0.0.1366.728@0.0.1366.728" timestamp="1593711587626" />
-    <state x="418" y="61" key="Vcs.Push.Dialog.v2" timestamp="1593711741145">
+    <state x="418" y="61" key="Vcs.Push.Dialog.v2" timestamp="1593712587250">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="418" y="61" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593711741145" />
+    <state x="418" y="61" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593712587250" />
     <state x="462" y="191" key="VcsDiffUtil.ChangesDialog" timestamp="1593181379987">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
