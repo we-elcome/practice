@@ -17,7 +17,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0b72185-fd4e-42c1-b020-5c0da8df3579" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/chunks/auth_card_content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/chunks/auth_card_header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/chunks/auth_card_wrapper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/chunks/footer_scripts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuexy-html-admin/chunks/html_head.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-forgot-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuexy-html-admin/html/ltr/vertical-menu-template-light/auth-forgot-password.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +124,7 @@
       <workItem from="1593452062083" duration="4557000" />
       <workItem from="1593511376001" duration="5541000" />
       <workItem from="1593624323993" duration="8847000" />
-      <workItem from="1593688731336" duration="10604000" />
+      <workItem from="1593688731336" duration="11481000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1592947131847</created>
@@ -211,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593708160370</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="nodes removed from gitignore">
+      <created>1593708276383</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1593708276383</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +269,8 @@
     <MESSAGE value="+ alerts&#10;auth pages fixes" />
     <MESSAGE value="auth pages fixes p. 2" />
     <MESSAGE value="nodes removed" />
-    <option name="LAST_COMMIT_MESSAGE" value="nodes removed" />
+    <MESSAGE value="nodes removed from gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="nodes removed from gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="327" y="35" key="#CLI_Interpreters" timestamp="1593444473375">
@@ -275,10 +289,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="243" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1593451221477" />
-    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1593708104684">
+    <state x="389" y="0" key="CommitChangelistDialog2" timestamp="1593708273476">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593708104684" />
+    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593708273476" />
     <state x="237" y="53" width="1092" height="582" key="DiffContextDialog" timestamp="1593203893323">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -303,10 +317,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593444667666" />
-    <state x="422" y="43" key="Vcs.Push.Dialog.v2" timestamp="1593632123459">
+    <state x="422" y="43" key="Vcs.Push.Dialog.v2" timestamp="1593709126452">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="422" y="43" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593632123459" />
+    <state x="422" y="43" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593709126452" />
     <state x="462" y="191" key="VcsDiffUtil.ChangesDialog" timestamp="1593181379987">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
