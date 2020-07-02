@@ -1,7 +1,7 @@
 <div class="app-content content">
     <div class="content-wrapper">
         <div class="content-body">
-            <section class="row flexbox-container">
+            <div class="row flexbox-container">
                 <div class="col-12 d-flex justify-content-center">
                     <div class="card bg-authentication rounded-0 mb-0">
                         <div class="row m-0">
@@ -14,7 +14,8 @@
                             </div>
                         </div>
                     </div>
-            </section>
+                </div>
+            </div>
         </div>
     </div>
 </div>
