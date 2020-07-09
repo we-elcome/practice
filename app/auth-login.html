@@ -54,9 +54,9 @@
                                         <p class="px-2">Добро пожаловать! Выполните вход или зарегистрируйтесь</p>
                                         <div class="card-content">
                                             <div class="card-body pt-1 pb-0">
-                                                <form method="post">
+                                                <form action="controllers/authorization.php" method="post">
                                                     <fieldset class="form-label-group position-relative has-icon-left">
-                                                        <input type="text" class="form-control" id="userName" placeholder="Имя пользователя" autocomplete="off" required>
+                                                        <input type="text" class="form-control" name="username" id="userName" placeholder="Имя пользователя" autocomplete="off" required>
                                                         <div class="form-control-position">
                                                             <i class="feather icon-user"></i>
                                                         </div>
@@ -64,7 +64,7 @@
                                                     </fieldset>
 
                                                     <fieldset class="form-label-group position-relative has-icon-left">
-                                                        <input type="password" class="form-control" id="userPassword" placeholder="Пароль" autocomplete="off" required>
+                                                        <input type="password" class="form-control" name="password" id="userPassword" placeholder="Пароль" autocomplete="off" required>
                                                         <div class="form-control-position">
                                                             <i class="feather icon-lock"></i>
                                                         </div>
