@@ -4,7 +4,7 @@
 
 require '../core/database.php';
 
-class authorization
+class Authorization
 {
     public function encode($str) {
         return md5($str);
@@ -17,11 +17,9 @@ class authorization
         $query = "SELECT * 
                   FROM `app_user` 
                   WHERE `Логин`=$name";
-        $result = $connection->query($query);
-        $row = $result->fetch_assoc();
-        $result->close();
+        $data = $db->query($query);
 
-        return $row != null;
+        return $data != null;
     }
 
     public function validateUser($name, $enc_pwd) {

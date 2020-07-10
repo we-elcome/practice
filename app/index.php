@@ -1,8 +1,8 @@
 <?php
 
-require 'models/authorization.php';
+require 'models/Authorization.php';
 
-$auth = new authorization();
+$auth = new Authorization();
 
 if (isset($_GET['dashboard'])) {
     $name = htmlspecialchars($_GET['dashboard']);
