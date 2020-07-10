@@ -1,38 +1,71 @@
 <?php
 
-// require '../core/config.php';
+require '../core/database.php';
 
 class authorization
 {
-    private function encode($string) {
-        return md5($string);
+    public function encode($str) {
+        return $this->encode($str);
     }
 
-    public function encode_password($password) {
-        return $this->encode($password);
+    public function findUser($name): bool {
+        $db = database::getInstance();
+        $connection = $db->getConnection();
+
+        $query = "SELECT Логин 
+                  FROM app_user 
+                  WHERE Логин=$name";
+        $result = $connection->query($query);
+        $row = $result->fetch_assoc();
+        $result->close();
+
+        return $row != null;
     }
 
-    public function find_user($name): bool {
-        throw new Exception('Unsupported operation');
+    public function validateUser($name, $enc_pwd) {
+        $db = database::getInstance();
+        $connection = $db->getConnection();
 
-        // $query = "SELECT Логин FROM app_user WHERE Логин=$name";
+        $query = "SELECT Логин 
+                  FROM app_user 
+                  WHERE Логин=$name, Пароль=$enc_pwd";
+        $result = $connection->query($query);
+        $row = $result->fetch_assoc();
+        $result->close();
 
+        return $row != null;
     }
 
-    public function open_session($session) {
+    public function openSession($session) {
         throw new Exception('Not supported yet');
     }
 
-    public function gen_session($name): string {
+    public function genSession($name): string {
         throw new Exception('Not supported yet');
 
-        // $query = "UPDATE app_user SET Session=$session WHERE Логин=$name";
+        $session = ''; // SessionID generation
+
+        $db = database::getInstance();
+        $connection = $db->getConnection();
+
+        $query = "UPDATE app_user
+                  SET Session=$session 
+                  WHERE Логин=$name";
+        $result = $connection->query($query);
+
+        return $session;
     }
 
-    public function validate_session($name, $session) {
+    public function validateSession($name, $session) {
         throw new Exception('Not supported yet');
 
-        // $query = "SELECT Логин, Session FROM app_user WHERE Логин=$name, Session=$session";
+        $db = database::getInstance();
+        $connection = $db->getConnection();
+
+        $query = "SELECT Логин, Session 
+                  FROM app_user 
+                  WHERE Логин=$name, Session=$session";
+        $result = $connection->query($query);
     }
 
     public function redirect($url) {
