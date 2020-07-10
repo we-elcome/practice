@@ -1,14 +1,14 @@
 <?php
 
-require_once 'db_config.php';
+require_once 'DbConfig.php';
 
-class database
+class Database
 {
     private static $instance = null;
     private $connection;
 
     private function openConnection() {
-        $this->connection = new mysqli(db_config::HOST, db_config::USER, db_config::PASSWORD, db_config::NAME);
+        $this->connection = new mysqli(dbConfig::HOST, dbConfig::USER, dbConfig::PASSWORD, dbConfig::NAME);
     }
 
     private function closeConnection() {

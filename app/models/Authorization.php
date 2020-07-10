@@ -1,8 +1,8 @@
 <?php
 
-// TODO: вынести повторяющиеся блоки кода в отдельный метод database.php
+// TODO: вынести повторяющиеся блоки кода в отдельный метод Database.php
 
-require '../core/database.php';
+require '../core/Database.php';
 
 class Authorization
 {

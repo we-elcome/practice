@@ -1,3 +1,3 @@
 .idea
-/app/core/db_config.php
+/app/core/DbConfig.php
 /app/core/config.php
