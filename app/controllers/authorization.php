@@ -5,11 +5,13 @@ require '../models/authorization.php';
 $auth = new authorization();
 
 $name = htmlspecialchars($_POST['username']);
-$password = $auth->encode(htmlspecialchars($_POST['password']));
+$enc_password = $auth->encode(htmlspecialchars($_POST['password']));
 
-if ($auth->validateUser($name)) {
-    $session = $auth->genSession($name);
-    $auth->openSession($session);
+if ($auth->validateUser($name, $enc_password)) {
+    // $session = $auth->genSession($name);
+    // $auth->openSession($session);
+    database::getInstance()->closeConnection();
+
     $auth->redirect("../index.php?dashboard=$name");
     return;
 }
