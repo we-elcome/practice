@@ -7,7 +7,7 @@ require '../core/database.php';
 class authorization
 {
     public function encode($str) {
-        return $this->encode($str);
+        return md5($str);
     }
 
     public function findUser($name): bool {
