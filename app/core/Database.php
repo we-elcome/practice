@@ -8,7 +8,7 @@ class Database
     private $connection;
 
     private function openConnection() {
-        $this->connection = new mysqli(dbConfig::HOST, dbConfig::USER, dbConfig::PASSWORD, dbConfig::NAME);
+        $this->connection = new mysqli(DbConfig::HOST, DbConfig::USER, DbConfig::PASSWORD, DbConfig::NAME);
     }
 
     private function closeConnection() {
@@ -18,8 +18,8 @@ class Database
     public function query($query) {
         $this->openConnection();
 
-        $result = $this->connection->query($query, "SET NAMES 'utf-8'")
-            or die(mysqli_error($connection));
+        $result = $this->connection->query($query)
+            or die(mysqli_error($this->connection));
 
         $data = [];
         while ($row = $result->fetch_assoc()) {
@@ -29,6 +29,13 @@ class Database
         $result->close();
         $this->closeConnection();
         return $data;
+    }
+
+    public function escapeString($str) {
+        $this->openConnection();
+        $result = $this->connection->real_escape_string($str);
+        $this->closeConnection();
+        return $result;
     }
 
     public static function getInstance() {
