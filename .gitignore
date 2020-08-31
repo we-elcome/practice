@@ -1,3 +1,4 @@
 .idea
 /app/core/DbConfig.php
 /app/core/config.php
+/app/vendors/js/
