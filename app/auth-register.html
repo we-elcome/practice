@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html class="loading" lang="ru" data-textdirection="ltr">
+<!-- BEGIN: Head-->
+
+<head>
+    <title>Регистрация</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+
+    <link rel="shortcut icon" type="image/x-icon" href="images/ico/favicon.ico">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600" rel="stylesheet">
+
+    <!-- BEGIN: Vendor CSS-->
+    <link rel="stylesheet" type="text/css" href="vendors/css/vendors.min.css">
+    <!-- END: Vendor CSS-->
+
+    <!-- BEGIN: Theme CSS-->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-extended.css">
+    <link rel="stylesheet" type="text/css" href="css/colors.css">
+    <link rel="stylesheet" type="text/css" href="css/components.css">
+    <link rel="stylesheet" type="text/css" href="css/themes/light-layout.css">
+    <!-- END: Theme CSS-->
+
+    <!-- BEGIN: Page CSS-->
+    <link rel="stylesheet" type="text/css" href="css/core/menu/menu-types/vertical-menu.css">
+    <link rel="stylesheet" type="text/css" href="css/pages/authentication.css">
+    <!-- END: Page CSS-->
+
+    <!-- BEGIN: Custom CSS-->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!-- END: Custom CSS-->
+
+</head>
+<!-- END: Head-->
+
+<!-- BEGIN: Body-->
+
+<body class="vertical-layout vertical-menu-modern light-layout 1-column  navbar-floating footer-static bg-full-screen-image  blank-page blank-page" data-open="click" data-menu="vertical-menu-modern" data-col="1-column" data-layout="light-layout">
+    <!-- BEGIN: Content-->
+    <div class="app-content content">
+        <div class="content-wrapper">
+            <div class="content-body">
+                <section class="row flexbox-container">
+                    <div class="col-12 d-flex justify-content-center">
+                        <div class="max-w-40 card bg-authentication rounded-0 mb-0">
+                            <div class="row m-0">
+                                <div class="col-12 p-2">
+                                    <div class="card rounded-0 mb-0 px-2">
+                                        <div class="card-header pt-50 pb-1">
+                                            <div class="card-title">
+                                                <h4 class="mb-0">Создать аккаунт</h4>
+                                            </div>
+                                        </div>
+                                        <p class="px-2">Заполните форму для создания учетной записи</p>
+                                        <div class="card-content">
+                                            <div class="card-body pt-0">
+                                                <form method="post" action="/controllers/registration.php">
+                                                    <fieldset class="form-label-group position-relative has-icon-left">
+                                                        <input name="login" type="text" class="form-control" id="inputName" placeholder="Имя" autocomplete="off" required>
+                                                        <div class="form-control-position">
+                                                            <i class="feather icon-user"></i>
+                                                        </div>
+                                                        <label for="inputName">Имя</label>
+                                                    </fieldset>
+
+                                                    <fieldset class="form-label-group position-relative has-icon-left">
+                                                        <input name="email" type="email" class="form-control" id="inputEmail" placeholder="Email" autocomplete="off" required>
+                                                        <div class="form-control-position">
+                                                            <i class="feather icon-mail"></i>
+                                                        </div>
+                                                        <label for="inputEmail">Email</label>
+                                                    </fieldset>
+
+						     <fieldset class="form-label-group position-relative has-icon-left">
+							 <input name="phone" type="text" class="form-control" id="inputPhone" placeholder="Телефон" autocomplete="off" required>
+							 <div class="form-control-position">
+							     <i class="feather icon-phone"></i>
+							 </div>
+							 <label for="inputPhone">Телефон</label>
+						     </fieldset>
+
+                                                    <fieldset class="form-label-group position-relative has-icon-left">
+                                                        <input name="pwd1" type="password" class="form-control" id="inputPassword" placeholder="Пароль" autocomplete="off" required>
+                                                        <div class="form-control-position">
+                                                            <i class="feather icon-lock"></i>
+                                                        </div>
+                                                        <label for="inputPassword">Пароль</label>
+                                                    </fieldset>
+
+                                                    <fieldset class="form-label-group position-relative has-icon-left">
+                                                        <input name="pwd2" type="password" class="form-control" id="inputConfPassword" placeholder="Подтвердите пароль" autocomplete="off" required>
+                                                        <div class="form-control-position">
+                                                            <i class="feather icon-lock"></i>
+                                                        </div>
+                                                        <label for="inputConfPassword">Подтвердите пароль</label>
+                                                    </fieldset>
+
+                                                    <div class="form-group row">
+                                                        <div class="col-12">
+                                                            <fieldset class="checkbox">
+                                                                <div class="vs-checkbox-con vs-checkbox-primary">
+                                                                    <input type="checkbox">
+                                                                    <span class="vs-checkbox">
+                                                                        <span class="vs-checkbox--check">
+                                                                            <i class="vs-icon feather icon-check"></i>
+                                                                        </span>
+                                                                    </span>
+                                                                    <span class=""> Принимаю условия пользовательского соглашения</span>
+                                                                </div>
+                                                            </fieldset>
+                                                        </div>
+                                                    </div>
+                                                    <div class="float-md-left d-block mb-1">
+                                                        <a href="auth-login.html" class="btn btn-outline-primary btn-block">Вход</a>
+                                                    </div>
+                                                    <div class="float-md-right d-block mb-1">
+                                                        <button type="submit" class="btn btn-primary float-right btn-block">Регистрация</button>
+                                                    </div>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+    <!-- END: Content-->
+
+</body>
+<!-- END: Body-->
+
+</html>
